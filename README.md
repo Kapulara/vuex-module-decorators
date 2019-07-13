@@ -1,3 +1,11 @@
+# 🚧 IMPORTANT 🚧
+
+I forked this library from [championswimmer/vuex-module-decorators](https://github.com/championswimmer/vuex-module-decorators) since I required having support for [championswimmer/vuex-persist](https://github.com/championswimmer/vuex-persist) in one of my packages. 
+
+Once the pull request I created get's merged I will deprecate this package.
+
+Latest info in: [Pull Request](https://github.com/championswimmer/vuex-module-decorators/pull/102)
+
 # vuex-module-decorators
 
 [![Usage Guide](https://img.shields.io/badge/usage-guide-1e90ff.svg?style=for-the-badge&longCache=true)](https://championswimmer.in/vuex-module-decorators/)    
